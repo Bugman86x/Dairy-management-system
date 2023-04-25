@@ -1,1 +1,1 @@
-Dairy Management System built in language
+Dairy Management System built in c language.
